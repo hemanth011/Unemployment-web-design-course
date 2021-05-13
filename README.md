@@ -1,7 +1,7 @@
 # Unemployment-web-design-course
 This repo contains frontend project
 # heading1
-## heading 2
+## headings 2
 ### heading 3
 #### heading 4
 ##### heading 5
